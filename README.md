@@ -29,7 +29,7 @@ My goal is to become a strong data analyst who can work confidently with real-wo
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mukteswar-nayak)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukteswar-nayak)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mukteswarnayak17@gmail.com)
 
 ⭐ *If you like my work, feel free to explore my repositories!*
