@@ -54,9 +54,9 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 ## 📊 GitHub Statistics & Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukteswarnayak17&show_icons=true&theme=radial&hide_border=true" alt="Mukteswar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukteswarnayak17&theme=radial&hide_border=true" alt="Mukteswar's Contribution Streak" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukteswarnayak17&show_icons=true&theme=radical&hide_border=true" alt="Mukteswar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukteswarnayak17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Mukteswar's GitHub Contributions" width="48%" />
 </p>
 
 
