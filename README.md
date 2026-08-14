@@ -6,7 +6,6 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukteswar-nayak) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukteswarnayak17@gmail.com)
 
----
 
 ## 👨‍💻 About Me
 
@@ -17,7 +16,7 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 * 🧹 Transform raw and messy datasets into clean, analysis-ready data.
 * 💡 Convert analytical findings into clear, actionable business recommendations.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +36,7 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🔧 Development & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -52,34 +51,48 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 * 📌 Data Storytelling
 * 📌 PL-300 / Power BI certification preparation
 
----
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Streak
 
-![Mukteswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukteswarnayak17&show_icons=true&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukteswarnayak17&show_icons=true&theme=radial&hide_border=true" alt="Mukteswar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukteswarnayak17&theme=radial&hide_border=true" alt="Mukteswar's Contribution Streak" width="48%" />
+</p>
 
 
----
-
-## 🔥 Contribution Streak
-
-![Mukteswar's Contribution Streak](https://streak-stats.demolab.com/?user=mukteswarnayak17&hide_border=true&background=00000000)
-
----
 
 ## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-![Contribution Snake](https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/github-contribution-grid-snake.svg)
 
----
+## 🤝 Let's Connect & Collaborate
 
-## 🤝 Let's Connect
+> "Data is just noise until you tell its story."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukteswar-nayak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukteswarnayak17@gmail.com)
+I am always excited to connect with **fellow data enthusiasts, analysts, engineers, and tech innovators**. Whether you'd like to discuss data visualization techniques, collaborate on open-source analytics projects, explore complex SQL optimizations, or simply say hello—my inbox is always open!
 
----
+<p align="left">
+  <a href="https://linkedin.com/in/mukteswar-nayak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mukteswarnayak17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-### 🚀 Turning Data Into Decisions
 
-Analyze → Understand → Visualize → Decide
+<br />
+
+<div align="center">
+  <h3>🚀 Turning Data Into Decisions</h3>
+  <p><i>Analyze &bull; Understand &bull; Visualize &bull; Decide</i></p>
+
+  <!-- Interactive hover element -->
+  <a href="https://github.com/mukteswarnayak17" title="✨ Thank you for visiting my profile! Let's build something impactful together. ✨">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hover+over+this+badge!+💡;Let's+build+data-driven+solutions!+📊" alt="Interactive Hover Element" />
+  </a>
+</div>
+
+
