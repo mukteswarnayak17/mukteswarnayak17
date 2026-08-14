@@ -62,8 +62,13 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+  </picture>
 </p>
 
 
