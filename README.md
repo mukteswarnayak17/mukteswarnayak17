@@ -4,7 +4,6 @@
 
 I transform raw data into meaningful insights using Python, SQL, and Power BI. My focus is on data cleaning, exploratory analysis, visualization, and driving business decision-making. I actively tackle complex SQL and algorithmic challenges to build optimal, highly efficient data solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukteswar-nayak) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukteswarnayak17@gmail.com)
 
 
 ## 👨‍💻 About Me
@@ -98,21 +97,57 @@ I am always excited to connect with **fellow data enthusiasts, analysts, enginee
 
 <br />
 
-<div align="left">
+<h2>🚀 Turning Data Into Decisions</h2>
 
-  <h3>🚀 Turning Data Into Decisions</h3>
+<p>
+  <i>Analyze • Understand • Visualize • Decide</i>
+</p>
 
-  <p>
-    <i>Analyze &bull; Understand &bull; Visualize &bull; Decide</i>
-  </p>
+<br />
 
-  <a href="https://github.com/mukteswarnayak17" title="✨ Thank you for visiting my profile! Let's build something impactful together. ✨">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=false&vcenter=true&width=600&lines=Let's+build+data-driven+solutions!+📊;Turning+data+into+decisions!+💡;Analyze+%E2%80%A2+Understand+%E2%80%A2+Visualize+%E2%80%A2+Decide+🚀"
-      alt="Typing Animation"
-    />
+<p align="left">
+
+  <a href="https://github.com/mukteswarnayak17" title="👋 Visit my GitHub profile">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-</div>
+  <a href="https://linkedin.com/in/mukteswar-nayak" title="💼 Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:mukteswarnayak17@gmail.com" title="📩 Send me an email">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</p>
+
+<br />
+
+<p align="left">
+
+  <a href="https://github.com/mukteswarnayak17" title="🐍 Python — Data Analysis & Automation">
+    <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+
+  <a href="https://github.com/mukteswarnayak17" title="🗄️ SQL — Data Extraction & Analysis">
+    <img src="https://img.shields.io/badge/SQL-Data_Analysis-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </a>
+
+  <a href="https://github.com/mukteswarnayak17" title="📊 Power BI — Interactive Dashboards">
+    <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  </a>
+
+</p>
+
+<br />
+
+<p align="left">
+  <b>💡 Hover over the badges to discover more</b>
+</p>
+
+<p align="left">
+  <i>Thanks for visiting my profile! Let's turn data into something meaningful. 🚀</i>
+</p>
+
 
 
