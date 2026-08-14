@@ -85,14 +85,21 @@ I am always excited to connect with **fellow data enthusiasts, analysts, enginee
 
 <br />
 
-<div align="center">
-  <h3>🚀 Turning Data Into Decisions</h3>
-  <p><i>Analyze &bull; Understand &bull; Visualize &bull; Decide</i></p>
+<div align="left">
 
-  <!-- Interactive hover element -->
+  <h3>🚀 Turning Data Into Decisions</h3>
+
+  <p>
+    <i>Analyze &bull; Understand &bull; Visualize &bull; Decide</i>
+  </p>
+
   <a href="https://github.com/mukteswarnayak17" title="✨ Thank you for visiting my profile! Let's build something impactful together. ✨">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hover+over+this+badge!+💡;Let's+build+data-driven+solutions!+📊" alt="Interactive Hover Element" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=false&vcenter=true&width=600&lines=Let's+build+data-driven+solutions!+📊;Turning+data+into+decisions!+💡;Analyze+%E2%80%A2+Understand+%E2%80%A2+Visualize+%E2%80%A2+Decide+🚀"
+      alt="Typing Animation"
+    />
   </a>
+
 </div>
 
 
