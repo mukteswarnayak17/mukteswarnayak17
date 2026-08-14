@@ -56,12 +56,12 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mukteswarnayak17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="./profile/stats.svg"
     alt="Mukteswar's GitHub Stats"
     width="48%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=mukteswarnayak17&theme=tokyonight&hide_border=true"
+    src="./profile/streak.svg"
     alt="Mukteswar's Contribution Streak"
     width="48%"
   />
