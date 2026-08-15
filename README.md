@@ -93,71 +93,25 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 > "Data is just noise until you tell its story."
 
-I am always excited to connect with **fellow data enthusiasts, analysts, engineers, and tech innovators**. Whether you'd like to discuss data visualization techniques, collaborate on open-source analytics projects, explore complex SQL optimizations, or simply say hello—my inbox is always open!
+I am always excited to connect with **fellow data enthusiasts, analysts, engineers, and tech innovators.** Whether you'd like to discuss data visualization techniques, collaborate on open-source analytics projects, explore complex SQL optimizations, or simply say hello—my inbox is always open!
 
 <p align="left">
-  <a href="https://linkedin.com/in/mukteswar-nayak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/mukteswar-nayak">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linkedin.com/in/mukteswar-nayak">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-38BDF8?style=for-the-badge&logo=handshake&logoColor=white" alt="Let's Connect" />
   </a>
   <a href="mailto:mukteswarnayak17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:mukteswarnayak17@gmail.com">
+    <img src="https://img.shields.io/badge/SAY_HELLO-F97316?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say Hello" />
   </a>
 </p>
 
+<br>
 
-<br />
-
-<h2>🚀 Turning Data Into Decisions</h2>
-
-<p>
-  <i>Analyze • Understand • Visualize • Decide</i>
+<p align="center">
+  <img src="./assets/footer-waves.svg" alt="Animated Data Waves" width="100%" />
 </p>
-
-<br />
-
-<p align="left">
-
-  <a href="https://github.com/mukteswarnayak17" title="👋 Visit my GitHub profile">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://linkedin.com/in/mukteswar-nayak" title="💼 Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:mukteswarnayak17@gmail.com" title="📩 Send me an email">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</p>
-
-<br />
-
-<p align="left">
-
-  <a href="https://github.com/mukteswarnayak17" title="🐍 Python — Data Analysis & Automation">
-    <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-
-  <a href="https://github.com/mukteswarnayak17" title="🗄️ SQL — Data Extraction & Analysis">
-    <img src="https://img.shields.io/badge/SQL-Data_Analysis-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </a>
-
-  <a href="https://github.com/mukteswarnayak17" title="📊 Power BI — Interactive Dashboards">
-    <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  </a>
-
-</p>
-
-<br />
-
-<p align="left">
-  <b>💡 Hover over the badges to discover more</b>
-</p>
-
-<p align="left">
-  <i>Thanks for visiting my profile! Let's turn data into something meaningful. 🚀</i>
-</p>
-
-
-
