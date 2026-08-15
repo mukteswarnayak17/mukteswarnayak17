@@ -1,0 +1,95 @@
+name: Generate Pac-Man Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+          hide_month_labels: "false"
+
+      - name: Add Arcade Border
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          for file in Path("dist").glob("*pacman-contribution-graph*.svg"):
+
+              text = file.read_text(encoding="utf-8")
+
+              border = '''
+              <rect
+                x="0.7%"
+                y="0.7%"
+                width="98.6%"
+                height="98.6%"
+                rx="12"
+                ry="12"
+                fill="none"
+                stroke="#38BDF8"
+                stroke-width="3"
+                stroke-dasharray="12 7"
+                vector-effect="non-scaling-stroke"
+                opacity="0.95">
+
+                <animate
+                  attributeName="stroke-dashoffset"
+                  from="0"
+                  to="-38"
+                  dur="2s"
+                  repeatCount="indefinite" />
+
+              </rect>
+
+              <rect
+                x="1.5%"
+                y="1.5%"
+                width="97%"
+                height="97%"
+                rx="10"
+                ry="10"
+                fill="none"
+                stroke="#A855F7"
+                stroke-width="1.5"
+                stroke-dasharray="4 8"
+                vector-effect="non-scaling-stroke"
+                opacity="0.7">
+              </rect>
+              '''
+
+              text = re.sub(
+                  r'(<svg\b[^>]*>)',
+                  r'\1' + border,
+                  text,
+                  count=1
+              )
+
+              file.write_text(text, encoding="utf-8")
+
+              print(f"Added arcade border to {file}")
+
+          PY
+
+      - name: Publish Pac-Man
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
