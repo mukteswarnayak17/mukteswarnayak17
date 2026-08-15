@@ -56,13 +56,13 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 <p align="left">
   <img
     src="./profile/stats.svg"
-    alt="Mukteswar's GitHub Stats"
-    width="48%"
+    alt="Mukteswar's GitHub Statistics"
+    height="200"
   />
   <img
     src="./profile/streak.svg"
     alt="Mukteswar's Contribution Streak"
-    width="48%"
+    height="200"
   />
 </p>
 
