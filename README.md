@@ -68,20 +68,22 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 
 
-## 👻 Pac-Man Contribution Game
+## 👻 Contribution Arcade
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/pacman-contribution-graph-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/pacman-contribution-graph.svg"
   />
+
   <img
-    alt="Pac-Man Contribution Game"
     src="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Game"
   />
 </picture>
 
