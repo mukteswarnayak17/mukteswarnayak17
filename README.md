@@ -113,5 +113,5 @@ I am always excited to connect with **fellow data enthusiasts, analysts, enginee
 <br>
 
 <p align="center">
-  <img src="./assets/footer-waves.svg" alt="Animated Data Waves" width="100%" />
+  <img src="./assets/footer-waves.svg" alt="Animated Data Waves" width="100%" height="200" />
 </p>
