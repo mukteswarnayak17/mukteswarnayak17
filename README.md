@@ -69,24 +69,31 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 </p>
 
 
-## 👻 Contribution Arcade
+<h2 align="center">🕹️ Contribution Arcade</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/pacman-contribution-graph-dark.svg"
-  />
+<p align="center">
+  <b>Pac-Man is eating my GitHub contributions 👻</b>
+</p>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/pacman-contribution-graph.svg"
-  />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg"
+    />
 
-  <img
-    src="https://raw.githubusercontent.com/mukteswarnayak17/mukteswarnayak17/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Game"
-  />
-</picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg"
+    />
+
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 
 ## 🤝 Let's Connect & Collaborate
