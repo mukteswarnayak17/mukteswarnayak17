@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Mukteswar Nayak
-![Profile Views](https://komarev.com/ghpvc/?username=mukteswarnayak17&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 **Data Analyst | Business Analytics | Power BI | SQL | Python**
 
@@ -66,18 +65,6 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
     alt="Mukteswar's Contribution Streak"
     width="570"
     height="200"
-  />
-</p>
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukteswarnayak17&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="200" 
-  />
-  <img 
-    src="https://leetcard.jacoblin.cool/mukteswarnayak17?theme=dark&font=syne&ext=heatmap" 
-    alt="LeetCode Stats" 
-    height="200" 
   />
 </p>
 
