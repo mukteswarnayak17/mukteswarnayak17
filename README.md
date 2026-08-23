@@ -75,13 +75,6 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 
 ## 📊 GitHub Statistics & Streak
 
-<p align="left">
-  <img
-    src="./profile/stats.svg"
-    alt="Mukteswar's GitHub Statistics"
-    width="570"
-    height="200"
-  />
   <img
     src="./profile/streak.svg"
     alt="Mukteswar's Contribution Streak"
