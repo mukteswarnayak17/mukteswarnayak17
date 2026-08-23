@@ -16,7 +16,8 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 * 💡 Convert analytical findings into clear, actionable business recommendations.
 
 
-  ## 📊 Data Analytics Portfolio
+
+## 📊 Data Analytics Portfolio
 
 <p align="center">
   <picture>
@@ -24,15 +25,13 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
       media="(prefers-color-scheme: dark)"
       srcset="./profile/skills-dark.gif"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="./profile/skills-light.gif"
     />
-
     <img
       src="./profile/skills-dark.gif"
-      alt="Data Analytics Portfolio showing SQL, Python, Power BI, Excel, Statistics and Business Analytics proficiency"
+      alt="Data Analytics Portfolio showing SQL, Python, Power BI, Excel, Statistics and Business Analytics"
       width="100%"
     />
   </picture>
@@ -89,6 +88,10 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
     width="570"
     height="200"
   />
+</p>
+
+<p align="center">
+  <strong>🔥 227 GitHub Contributions • Analytics Projects • SQL Practice • Case Studies</strong>
 </p>
 
 
