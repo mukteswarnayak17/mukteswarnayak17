@@ -83,9 +83,7 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
   />
 </p>
 
-<p align="center">
-  <strong>🔥 227 GitHub Contributions • Analytics Projects • SQL Practice • Case Studies</strong>
-</p>
+
 
 
 ## 🕹️ Contribution Arcade
