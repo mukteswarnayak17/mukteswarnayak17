@@ -73,16 +73,6 @@ I transform raw data into meaningful insights using Python, SQL, and Power BI. M
 * 📌 PL-300 / Power BI certification preparation
 
 
-## 📊 GitHub Statistics & Streak
-
-  <img
-    src="./profile/streak.svg"
-    alt="Mukteswar's Contribution Streak"
-    width="570"
-    height="200"
-  />
-</p>
-
 
 
 
